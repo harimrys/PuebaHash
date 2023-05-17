@@ -2,7 +2,7 @@ import java.util.HashSet;
 import java.util.HashMap;
 import java.util.Map;
 
-public class PruebaSetyMap {
+public class SetyMap {
     public static void main(String args[]) {
       
       //HashSet
