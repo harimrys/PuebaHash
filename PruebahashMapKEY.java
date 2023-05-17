@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class PruebahashMap2 {
+public class PruebahashMapKEY {
 
 //Mostrar las llaves:
 public static void main(String[] args) throws Exception {
