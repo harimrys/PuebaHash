@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class PruebahashMapVALUE {
+public class HashMapVALUE {
   //Mostrar los valores:
   public static void main(String[] args) throws Exception {
     HashMap<String, String> map = new HashMap<String, String>();
